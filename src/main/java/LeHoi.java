@@ -2,6 +2,8 @@ import java.util.*;
 
 public class LeHoi
 {
+    private int id;
+
     private String ten;
     private String thoiGian;
     private String diaDiem;
@@ -81,10 +83,21 @@ public class LeHoi
         this.ten = ten == "" ? nullRepresentation : ten;
     }
 
+    public int getId()
+    {
+        return id;
+    }
+
+    public void setId(int id)
+    {
+        this.id = id;
+    }
+
     @Override
     public String toString()
     {
-        return "{ \t\"Tên\": \"" + this.ten + "\",\n\t"
+        return  "{ \t\"Id\": \"" + this.id + "\", \n\t"
+                + "\"Tên\": \"" + this.ten + "\",\n\t"
                 + "\"Thời Gian\": \"" + this.thoiGian + "\",\n\t"
                 + "\"Địa điểm\": \"" + this.diaDiem + "\",\n\t"
                 + "\"Nhân Vật Lịch Sử Liên Kết\": \"" + this.nhanVatLichSuLienKet + "\",\n\t"

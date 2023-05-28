@@ -17,6 +17,10 @@ public class Main
 
         cacLeHoi = scrapeTalbe(page);
         cacLeHoi.addAll(scrapePage(page));
+        for (LeHoi leHoi : cacLeHoi)
+        {
+            leHoi.setId(cacLeHoi.indexOf(leHoi) + 1);
+        }
 
         try (FileWriter writer = new FileWriter("CacLeHoi.json")) {
             writer.write("[");
