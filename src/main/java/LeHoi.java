@@ -84,11 +84,11 @@ public class LeHoi
     @Override
     public String toString()
     {
-        return "{ \"Tên\": \"" + this.ten + "\", "
-                + "\"Thời Gian\": \"" + this.thoiGian + "\", "
-                + "\"Địa điểm\": \"" + this.diaDiem + "\", "
-                + "\"Nhân Vật Lịch Sử Liên Kết\": \"" + this.nhanVatLichSuLienKet + "\", "
-                + "\"Lần Đầu Tổ Chức\": \"" + this.lanDauToChuc + "\", "
-                + "\"Thông Tin Khác\": \"" + this.others.toString() + "\" }";
+        return "{ \t\"Tên\": \"" + this.ten + "\",\n\t"
+                + "\"Thời Gian\": \"" + this.thoiGian + "\",\n\t"
+                + "\"Địa điểm\": \"" + this.diaDiem + "\",\n\t"
+                + "\"Nhân Vật Lịch Sử Liên Kết\": \"" + this.nhanVatLichSuLienKet + "\",\n\t"
+                + "\"Lần Đầu Tổ Chức\": \"" + this.lanDauToChuc + "\",\n\t"
+                + "\"Thông Tin Khác\": \"" + this.others.toString() + "\" }\n";
     }
 }
