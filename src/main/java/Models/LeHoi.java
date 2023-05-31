@@ -1,5 +1,6 @@
+package Models;
+
 import java.util.*;
-import Models.Model;
 
 public class LeHoi extends Model
 {

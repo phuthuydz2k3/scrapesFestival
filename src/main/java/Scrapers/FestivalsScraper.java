@@ -1,4 +1,7 @@
+package Scrapers;
+
 import Interfaces.IScraper;
+import Models.LeHoi;
 import Models.Model;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -14,11 +17,11 @@ import java.util.Map;
 
 public class FestivalsScraper implements IScraper
 {
-    private static Map<String, List<String>> map = new HashMap<>();
+    private Map<String, List<String>> map;
 
     public FestivalsScraper()
     {
-
+        map = new HashMap<>();
     }
 
     public List<Model> scrapePage(String page)
