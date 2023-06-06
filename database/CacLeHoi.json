@@ -5,7 +5,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Gò Đống Đa là một gò đất và là một di tích nằm bên phố Tây Sơn, phường Quang Trung, quận Đống Đa, Thành phố Hà Nội. Tại đây năm 1789 quân Tây Sơn đã đại phá và đánh thắng quân nhà Thanh Trung Quốc trong Trận Ngọc Hồi - Đống Đa]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "2", 
 	"Tên": "vật Liễu Đôi",
@@ -14,7 +14,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[tại làng Liễu Đôi]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "3", 
 	"Tên": "hội Gióng Sóc Sơn",
@@ -23,7 +23,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Hội Gióng là một lễ hội truyền thống hàng năm ở nhiều nơi thuộc vùng Hà Nội để tưởng niệm và ca ngợi chiến công của người anh hùng truyền thuyết Thánh Gióng, một trong tứ bất tử của tín ngưỡng dân gian Việt Nam .]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "4", 
 	"Tên": "Cổ Loa",
@@ -32,7 +32,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "5", 
 	"Tên": "chùa Bái Đính",
@@ -41,7 +41,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[]",
-	"Địa điểm code": "ninh-bình" }
+	"Địa điểm code": "ninh-binh" }
 ,
 { 	"Id": "6", 
 	"Tên": "Chợ Viềng",
@@ -50,7 +50,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Chợ Viềng (lối gọi theo tiếng cổ của Chợ Xuân) là phiên chợ đầu năm họp vào đêm mùng 7 ngày mùng 8 ở Nam Định. Theo gia phả họ Trần thì chợ Viềng có từ thời cổ xưa và hình thành theo tục lệ làng xã của người dân địa phương. Từ ' Viềng' là từ Hán Việt có nghĩa là: thăm hỏi, viếng thăm, trò chuyện. Nam Định có 4 chợ đó là:]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "7", 
 	"Tên": "đầm Ô Loan",
@@ -59,7 +59,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Lễ hội đầm Ô Loan được tổ chức vào mùng 7 tháng Giêng (Âm lịch) tại thôn Phú Tân, xã An Cư, huyện Tuy An. Lễ hội này có tư cách là lễ hội cầu ngư của người dân quanh đầm Ô Loan.]",
-	"Địa điểm code": "phú-yên" }
+	"Địa điểm code": "phu-yen" }
 ,
 { 	"Id": "8", 
 	"Tên": "Đại lễ Đức Chí Tôn",
@@ -68,7 +68,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[]",
-	"Địa điểm code": "tây-ninh" }
+	"Địa điểm code": "tay-ninh" }
 ,
 { 	"Id": "9", 
 	"Tên": "xuân Yên Tử",
@@ -77,7 +77,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Thiền phái Trúc Lâm, đến hết tháng 3]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "10", 
 	"Tên": "phết Hiền Quan",
@@ -86,7 +86,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Thòi Hùng vương thứ 6 vàtthời Hai Bà Trưng, Hội Phết Hiền Quan là một lễ hội của xã Hiền Quan, huyện Tam Nông, tỉnh Phú Thọ, được tổ chức từ ngày 12 đến 13 tháng Giêng âm lịch hàng năm, trong đó ngày chính hội là ngày 13. Lễ hội được tổ chức nhằm tôn vinh tinh thần thượng võ và tưởng nhớ hai vị thành hoàng là Thiều Hoa công chúa, một nữ tướng dưới thời Hai Bà Trưng có công đánh giặc và Mộc Trang đại vương thời nhà Đinh có công dẹp loạn 12 sứ quân.]",
-	"Địa điểm code": "phú-thọ" }
+	"Địa điểm code": "phu-tho" }
 ,
 { 	"Id": "11", 
 	"Tên": "Lim",
@@ -95,7 +95,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Hội Lim là một lễ hội lớn của tỉnh Bắc Ninh, chính hội được tổ chức vào ngày 13 tháng giêng hàng năm trên địa bàn huyện Tiên Du, tỉnh Bắc Ninh. Hội Lim được coi là nét kết tinh độc đáo của vùng văn hoá Kinh Bắc.]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "12", 
 	"Tên": "chùa Hương",
@@ -104,7 +104,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[đến tháng 3 âm lịch, Lễ hội chùa Hương hay Trẩy hội chùa Hương là một lễ hội của Việt Nam, nằm ở Mỹ Đức, Hà Nội. Trong khu thắng cảnh Hương Sơn, được xem hành trình về một miền đất Phật - nơi Quan Thế Âm Bồ Tát ứng hiện tu hành. Đây là một lễ hội lớn về số lượng các phật tử tham gia hành hương.]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "13", 
 	"Tên": "chùa Côn Sơn",
@@ -113,7 +113,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Chùa Côn Sơn (tên chữ là Tư Phúc tự hay Côn Sơn Tự), còn gọi là chùa Hun, là một ngôi chùa nằm bên ngọn núi Côn Sơn (hay còn gọi là núi Hun) ở phường Cộng Hoà, thành phố Chí Linh, tỉnh Hải Dương, Việt Nam. Chùa đã được Bộ trưởng Bộ Văn hóa Việt Nam Dân chủ cộng hòa xếp hạng di tích quốc gia ngay trong đợt I năm 1962. Đây là di tích quan trọng thuộc khu di tích Côn Sơn - Kiếp Bạc được công nhận là di tích quốc gia đặc biệt năm 2012.]",
-	"Địa điểm code": "hải-dương" }
+	"Địa điểm code": "hai-duong" }
 ,
 { 	"Id": "14", 
 	"Tên": "làm chay",
@@ -131,7 +131,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[đêm 14 đến nửa đêm 15/1, Tết Nguyên Tiêu (Chữ Nho: 節元宵), Tết Thượng Nguyên, Rằm Tháng Giêng là ngày lễ hội truyền thống của Việt Nam và Trung Quốc . Lễ hội trăng rằm từ giữa đêm 14 (đêm trước trăng rằm) trọn ngày 15 (ngày rằm) cho đến nửa đêm 15 (đêm trăng rằm) của tháng giêng Âm lịch.]",
-	"Địa điểm code": "nhiều-quốc-gia" }
+	"Địa điểm code": "nhieu-quoc-gia" }
 ,
 { 	"Id": "16", 
 	"Tên": "chọi trâu",
@@ -140,7 +140,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không tổ chức từ 1947-2002, Lễ hội chọi trâu Hải Lựu là một lễ hội chọi trâu diễn ra tại xã Hải Lựu, huyện Sông Lô (trước ngày 23/12/2008 thuộc huyện Lập Thạch), tỉnh Vĩnh Phúc.]",
-	"Địa điểm code": "vĩnh-phúc" }
+	"Địa điểm code": "vinh-phuc" }
 ,
 { 	"Id": "17", 
 	"Tên": "Xuân núi Bà",
@@ -149,7 +149,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[đến 16/1]",
-	"Địa điểm code": "tây-ninh" }
+	"Địa điểm code": "tay-ninh" }
 ,
 { 	"Id": "18", 
 	"Tên": "đình Yên Phụ",
@@ -158,7 +158,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[khôi phục từ 2003, Yên Phụ có thể là một trong số các địa danh sau:]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "19", 
 	"Tên": "Miếu Mạch Lũng",
@@ -167,7 +167,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[Miếu Mạch Lũng thuộc xã Đại Mạch, huyện Đông Anh, thành phố Hà Nội được Bộ Văn hóa - Thông tin Việt Nam cấp bằng công nhận Di tích lịch sử văn hóa năm 1993.]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "20", 
 	"Tên": "Quán Thế Âm",
@@ -176,7 +176,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[diễn ra trong 3 ngày, 觀世音菩薩 hay]",
-	"Địa điểm code": "đà-nẵng" }
+	"Địa điểm code": "đa-nang" }
 ,
 { 	"Id": "21", 
 	"Tên": "Bà chúa xứ",
@@ -194,7 +194,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bà-rịa-vũng-tàu" }
+	"Địa điểm code": "ba-ria-vung-tau" }
 ,
 { 	"Id": "23", 
 	"Tên": "Thắng Tam (Vũng Tàu)",
@@ -203,7 +203,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bà-rịa-vũng-tàu" }
+	"Địa điểm code": "ba-ria-vung-tau" }
 ,
 { 	"Id": "24", 
 	"Tên": "Chol Chnam Thmay của người Khmer",
@@ -212,7 +212,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bạc-liêu" }
+	"Địa điểm code": "bac-lieu" }
 ,
 { 	"Id": "25", 
 	"Tên": "Ba Bể",
@@ -221,7 +221,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-cạn" }
+	"Địa điểm code": "bac-can" }
 ,
 { 	"Id": "26", 
 	"Tên": "Lồng tồng (Phủ Thông)",
@@ -230,7 +230,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-cạn" }
+	"Địa điểm code": "bac-can" }
 ,
 { 	"Id": "27", 
 	"Tên": "Thổ Hà (Việt Yên)",
@@ -239,7 +239,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "28", 
 	"Tên": "Kễ (Dĩnh Kế, thành phố Bắc Giang)",
@@ -248,7 +248,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "29", 
 	"Tên": "chùa Vĩnh Nghiêm",
@@ -257,7 +257,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "30", 
 	"Tên": "chùa Bổ Đà (Tiên Sơn, Việt Yên)",
@@ -266,7 +266,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "31", 
 	"Tên": "Shoong hao, Sli, Lượn (Lục Ngạn)",
@@ -275,7 +275,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "32", 
 	"Tên": "Yên Thế",
@@ -284,7 +284,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-giang" }
+	"Địa điểm code": "bac-giang" }
 ,
 { 	"Id": "33", 
 	"Tên": "chùa Phật Tích (Từ Sơn)",
@@ -293,7 +293,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "34", 
 	"Tên": "Đồng Kỵ (Từ Sơn)",
@@ -302,7 +302,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "35", 
 	"Tên": "Lim (Tiên Du)",
@@ -311,7 +311,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "36", 
 	"Tên": "đình Đình Bảng (Từ Sơn)",
@@ -320,7 +320,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "37", 
 	"Tên": "chùa Bút Tháp",
@@ -329,7 +329,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "38", 
 	"Tên": "chùa Dâu",
@@ -338,7 +338,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "39", 
 	"Tên": "đền Bà chúa Kho",
@@ -347,7 +347,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "40", 
 	"Tên": "đền Đô (Đình Bảng, Từ Sơn)",
@@ -356,7 +356,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "41", 
 	"Tên": "đền Đức Vua Bà (Hòa Long, thành phố Bắc Ninh)",
@@ -365,7 +365,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bắc-ninh" }
+	"Địa điểm code": "bac-ninh" }
 ,
 { 	"Id": "42", 
 	"Tên": "truyền thống văn hóa hàng",
@@ -374,7 +374,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bến-tre" }
+	"Địa điểm code": "ben-tre" }
 ,
 { 	"Id": "43", 
 	"Tên": "chùa Bà",
@@ -383,7 +383,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-dương" }
+	"Địa điểm code": "binh-duong" }
 ,
 { 	"Id": "44", 
 	"Tên": "chiến thắng Đống Đa",
@@ -392,7 +392,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-định" }
+	"Địa điểm code": "binh-đinh" }
 ,
 { 	"Id": "45", 
 	"Tên": "sinh vua Quang Trung",
@@ -401,7 +401,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-định" }
+	"Địa điểm code": "binh-đinh" }
 ,
 { 	"Id": "46", 
 	"Tên": "thường tân",
@@ -410,7 +410,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-định" }
+	"Địa điểm code": "binh-đinh" }
 ,
 { 	"Id": "47", 
 	"Tên": "liên hoan văn hóa các dân tộc thiểu số",
@@ -419,7 +419,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-phước" }
+	"Địa điểm code": "binh-phuoc" }
 ,
 { 	"Id": "48", 
 	"Tên": "Ka tê",
@@ -428,7 +428,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-thuận" }
+	"Địa điểm code": "binh-thuan" }
 ,
 { 	"Id": "49", 
 	"Tên": "Ramưwan",
@@ -437,7 +437,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-thuận" }
+	"Địa điểm code": "binh-thuan" }
 ,
 { 	"Id": "50", 
 	"Tên": "Lăng Ông",
@@ -446,7 +446,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-thuận" }
+	"Địa điểm code": "binh-thuan" }
 ,
 { 	"Id": "51", 
 	"Tên": "Nghinh Ông",
@@ -455,7 +455,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-thuận" }
+	"Địa điểm code": "binh-thuan" }
 ,
 { 	"Id": "52", 
 	"Tên": "Dinh Thầy - Thím (Lagi)",
@@ -464,7 +464,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "bình-thuận" }
+	"Địa điểm code": "binh-thuan" }
 ,
 { 	"Id": "53", 
 	"Tên": "chùa Đà Quân (xã Hưng Đạo, Hòa An)",
@@ -473,7 +473,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cao-bằng" }
+	"Địa điểm code": "cao-bang" }
 ,
 { 	"Id": "54", 
 	"Tên": "đền Nùng Trí Cao (xã Vinh Quang, Hòa An)",
@@ -482,7 +482,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cao-bằng" }
+	"Địa điểm code": "cao-bang" }
 ,
 { 	"Id": "55", 
 	"Tên": "Sùng Phúc (xã Thanh Nhật, Hạ Lang)",
@@ -491,7 +491,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cao-bằng" }
+	"Địa điểm code": "cao-bang" }
 ,
 { 	"Id": "56", 
 	"Tên": "Kỳ Yên (cúng Đình)",
@@ -500,7 +500,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cà-mau" }
+	"Địa điểm code": "ca-mau" }
 ,
 { 	"Id": "57", 
 	"Tên": "Cầu an (12,",
@@ -509,7 +509,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cần-thơ" }
+	"Địa điểm code": "can-tho" }
 ,
 { 	"Id": "58", 
 	"Tên": "Cholchonam Thomay",
@@ -518,7 +518,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "cần-thơ" }
+	"Địa điểm code": "can-tho" }
 ,
 { 	"Id": "59", 
 	"Tên": "cầu an",
@@ -527,7 +527,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "đồng-nai" }
+	"Địa điểm code": "đong-nai" }
 ,
 { 	"Id": "60", 
 	"Tên": "truyền thống tại di tích Gò Tháp",
@@ -536,7 +536,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "đồng-tháp" }
+	"Địa điểm code": "đong-thap" }
 ,
 { 	"Id": "61", 
 	"Tên": "Quan Thế Âm (Ngũ Hành Sơn)",
@@ -545,7 +545,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "đà-nẵng" }
+	"Địa điểm code": "đa-nang" }
 ,
 { 	"Id": "62", 
 	"Tên": "văn hóa cồng chiêng",
@@ -554,7 +554,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "đắk-lắk" }
+	"Địa điểm code": "đak-lak" }
 ,
 { 	"Id": "63", 
 	"Tên": "đua voi Buôn Đôn",
@@ -563,7 +563,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "đắk-lắk" }
+	"Địa điểm code": "đak-lak" }
 ,
 { 	"Id": "64", 
 	"Tên": "kỷ niệm chiến thắng Điện Biên Phủ",
@@ -572,7 +572,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "điện-biên" }
+	"Địa điểm code": "đien-bien" }
 ,
 { 	"Id": "65", 
 	"Tên": "hoa ban",
@@ -581,7 +581,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "điện-biên" }
+	"Địa điểm code": "đien-bien" }
 ,
 { 	"Id": "66", 
 	"Tên": "thành Bản Phủ - đền Hoàng Công Chất",
@@ -590,7 +590,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "điện-biên" }
+	"Địa điểm code": "đien-bien" }
 ,
 { 	"Id": "67", 
 	"Tên": "Cơm Mới",
@@ -626,7 +626,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-giang" }
+	"Địa điểm code": "ha-giang" }
 ,
 { 	"Id": "71", 
 	"Tên": "Lồng Tồng (xuống đồng của dân tộc Tày)",
@@ -635,7 +635,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-giang" }
+	"Địa điểm code": "ha-giang" }
 ,
 { 	"Id": "72", 
 	"Tên": "vật võ Liễu Đôi",
@@ -644,7 +644,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "73", 
 	"Tên": "chùa Đọi (Long Đọi)",
@@ -653,7 +653,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "74", 
 	"Tên": "đền Lảnh Giang",
@@ -662,7 +662,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "75", 
 	"Tên": "18 –",
@@ -671,7 +671,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "76", 
 	"Tên": "18 –",
@@ -680,7 +680,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "77", 
 	"Tên": "đền Trần Thương",
@@ -689,7 +689,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "78", 
 	"Tên": "đền Trúc và hát Dậm Quyển Sơn (Thi Sơn, huyện Kim Bảng)",
@@ -698,7 +698,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nam" }
+	"Địa điểm code": "ha-nam" }
 ,
 { 	"Id": "79", 
 	"Tên": "hát chèo Tàu (Đan Phượng)",
@@ -707,7 +707,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "80", 
 	"Tên": "chùa Bối Khê (Thanh Oai)",
@@ -716,7 +716,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "81", 
 	"Tên": "đền Và (Sơn Tây)",
@@ -725,7 +725,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "82", 
 	"Tên": "chùa Thầy (Quốc Oai),",
@@ -734,7 +734,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "83", 
 	"Tên": "làng Hạ Thái",
@@ -743,7 +743,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "84", 
 	"Tên": "chùa Tây Phương (Thạch Thất)",
@@ -752,7 +752,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "85", 
 	"Tên": "Bình Đà (Thanh Oai)",
@@ -761,7 +761,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "86", 
 	"Tên": "làng Khê Hồi (Thường Tín)",
@@ -770,7 +770,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "87", 
 	"Tên": "đền Hát Môn (Phúc Thọ)",
@@ -779,7 +779,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "88", 
 	"Tên": "chùa Trăm Gian (Chương Mỹ)",
@@ -788,7 +788,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "89", 
 	"Tên": "chùa Trầm",
@@ -797,7 +797,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "90", 
 	"Tên": "đền Hai Bà Trưng",
@@ -806,7 +806,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "91", 
 	"Tên": "làng Triều Khúc (Thanh Trì)",
@@ -815,7 +815,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "92", 
 	"Tên": "Gióng Sóc Sơn",
@@ -824,7 +824,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "93", 
 	"Tên": "Đồng Nhân (Hai Bà Trưng)",
@@ -833,7 +833,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "94", 
 	"Tên": "chùa Láng (Đống Đa)",
@@ -842,7 +842,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "95", 
 	"Tên": "Lệ Mật (Long Biên)",
@@ -851,7 +851,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "96", 
 	"Tên": "Gióng (Phù Đổng, Gia Lâm)",
@@ -860,7 +860,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "97", 
 	"Tên": "đình Chèm (Từ Liêm)",
@@ -869,7 +869,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "98", 
 	"Tên": "chùa Đậu Thường Tín",
@@ -878,7 +878,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "99", 
 	"Tên": "phủ Tây Hồ",
@@ -887,7 +887,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "100", 
 	"Tên": "Đường Lâm (Sơn Tây)",
@@ -896,7 +896,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "101", 
 	"Tên": "đền Sái Đông Anh",
@@ -905,7 +905,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "102", 
 	"Tên": "đền Ghềnh",
@@ -914,7 +914,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "103", 
 	"Tên": "Giằng bông (Sơn Đồng, Hoài Đức)",
@@ -923,7 +923,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "104", 
 	"Tên": "đình - chùa - bia Bà (Hà Đông)",
@@ -932,7 +932,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "105", 
 	"Tên": "làng Giá (Yên Sở, Hoài Đức), Lễ",
@@ -941,7 +941,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "106", 
 	"Tên": "Tản Viên Sơn Thánh (Ba Vì)",
@@ -950,7 +950,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "107", 
 	"Tên": "làng Thổ Khối (Cự Khối, Long Biên)",
@@ -959,7 +959,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "108", 
 	"Tên": "đình Quảng Bá",
@@ -968,7 +968,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "109", 
 	"Tên": "đình Phúc Xá (Ngọc Thụy, Long Biên)",
@@ -977,7 +977,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-nội" }
+	"Địa điểm code": "ha-noi" }
 ,
 { 	"Id": "110", 
 	"Tên": "chợ Củi (Nghi Xuân)",
@@ -986,7 +986,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-tĩnh" }
+	"Địa điểm code": "ha-tinh" }
 ,
 { 	"Id": "111", 
 	"Tên": "Cầu Ngư (Nghi Xuân) cuối xuân đầu hạ",
@@ -995,7 +995,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-tĩnh" }
+	"Địa điểm code": "ha-tinh" }
 ,
 { 	"Id": "112", 
 	"Tên": "chùa Hương Tích (Can Lộc)",
@@ -1004,7 +1004,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hà-tĩnh" }
+	"Địa điểm code": "ha-tinh" }
 ,
 { 	"Id": "113", 
 	"Tên": "Côn Sơn rằm",
@@ -1013,7 +1013,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-dương" }
+	"Địa điểm code": "hai-duong" }
 ,
 { 	"Id": "114", 
 	"Tên": "đền Kiếp Bạc (Chí Linh) rằm",
@@ -1022,7 +1022,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-dương" }
+	"Địa điểm code": "hai-duong" }
 ,
 { 	"Id": "115", 
 	"Tên": "đền Tranh (Ninh Giang)",
@@ -1031,7 +1031,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-dương" }
+	"Địa điểm code": "hai-duong" }
 ,
 { 	"Id": "116", 
 	"Tên": "chọi Trâu (Đồ Sơn)",
@@ -1040,7 +1040,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-phòng" }
+	"Địa điểm code": "hai-phong" }
 ,
 { 	"Id": "117", 
 	"Tên": "Bạch Đằng",
@@ -1049,7 +1049,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-phòng" }
+	"Địa điểm code": "hai-phong" }
 ,
 { 	"Id": "118", 
 	"Tên": "làng cá Cát Bà",
@@ -1058,7 +1058,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hải-phòng" }
+	"Địa điểm code": "hai-phong" }
 ,
 { 	"Id": "119", 
 	"Tên": "hành hương về đền Bác Hồ (Long Mỹ)",
@@ -1067,7 +1067,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hậu-giang" }
+	"Địa điểm code": "hau-giang" }
 ,
 { 	"Id": "120", 
 	"Tên": "chùa Tiên (Phú Lão - Lạc Thủy)",
@@ -1076,7 +1076,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hòa-bình" }
+	"Địa điểm code": "hoa-binh" }
 ,
 { 	"Id": "121", 
 	"Tên": "hát ca trù làng Đào Đặng (Trung Nghĩa, thành phố Hưng Yên)",
@@ -1085,7 +1085,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "122", 
 	"Tên": "hát trống quân Liên Khê, Dạ Trạch (Khoái Châu)",
@@ -1094,7 +1094,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "123", 
 	"Tên": "Phù Ủng (thờ Phạm Ngũ Lão)",
@@ -1103,7 +1103,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "124", 
 	"Tên": "Đa Hòa (Khoái Châu)",
@@ -1112,7 +1112,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "125", 
 	"Tên": "Dạ Trạch, Khoái Châu",
@@ -1121,7 +1121,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "126", 
 	"Tên": "làng Nôm",
@@ -1130,7 +1130,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "127", 
 	"Tên": "Nam Trì (Ân Thi)",
@@ -1139,7 +1139,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "128", 
 	"Tên": "Mẫu (thành phố Hưng Yên)",
@@ -1148,7 +1148,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "129", 
 	"Tên": "văn hóa vùng Phố Hiến",
@@ -1157,7 +1157,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "hưng-yên" }
+	"Địa điểm code": "hung-yen" }
 ,
 { 	"Id": "130", 
 	"Tên": "tháp Bà Ponagar",
@@ -1166,7 +1166,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "khánh-hòa" }
+	"Địa điểm code": "khanh-hoa" }
 ,
 { 	"Id": "131", 
 	"Tên": "sinh Nguyễn Trung Trực",
@@ -1175,7 +1175,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "kiên-giang" }
+	"Địa điểm code": "kien-giang" }
 ,
 { 	"Id": "132", 
 	"Tên": "Chol Chnam Thmay",
@@ -1184,7 +1184,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "kiên-giang" }
+	"Địa điểm code": "kien-giang" }
 ,
 { 	"Id": "133", 
 	"Tên": "Okombok",
@@ -1193,7 +1193,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "kiên-giang" }
+	"Địa điểm code": "kien-giang" }
 ,
 { 	"Id": "134", 
 	"Tên": "cũng chùa Bà Thiên hậu",
@@ -1202,7 +1202,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "kiên-giang" }
+	"Địa điểm code": "kien-giang" }
 ,
 { 	"Id": "135", 
 	"Tên": "đâm trâu dịp gặt hái xong",
@@ -1220,7 +1220,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lào-cai" }
+	"Địa điểm code": "lao-cai" }
 ,
 { 	"Id": "137", 
 	"Tên": "Thìn",
@@ -1229,7 +1229,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lào-cai" }
+	"Địa điểm code": "lao-cai" }
 ,
 { 	"Id": "138", 
 	"Tên": "Đồng Đăng",
@@ -1238,7 +1238,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lạng-sơn" }
+	"Địa điểm code": "lang-son" }
 ,
 { 	"Id": "139", 
 	"Tên": "đình Pác Mòng",
@@ -1247,7 +1247,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lạng-sơn" }
+	"Địa điểm code": "lang-son" }
 ,
 { 	"Id": "140", 
 	"Tên": "chùa Bắc Nga (Cao Lộc) và",
@@ -1256,7 +1256,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lạng-sơn" }
+	"Địa điểm code": "lang-son" }
 ,
 { 	"Id": "141", 
 	"Tên": "chùa Nhị - Tam Thanh",
@@ -1265,7 +1265,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lạng-sơn" }
+	"Địa điểm code": "lang-son" }
 ,
 { 	"Id": "142", 
 	"Tên": "đền Kỳ Cùng (thành phố Lạng Sơn)",
@@ -1274,7 +1274,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lạng-sơn" }
+	"Địa điểm code": "lang-son" }
 ,
 { 	"Id": "143", 
 	"Tên": "Nhu Rhe, đâm trâu (lễ hội mừng lúa mới của dân tộc Mạ) sau khi gặt hái xong khoảng",
@@ -1283,7 +1283,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "lâm-đồng" }
+	"Địa điểm code": "lam-đong" }
 ,
 { 	"Id": "144", 
 	"Tên": "lăng Nguyễn Huỳnh Đức",
@@ -1310,7 +1310,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "147", 
 	"Tên": "Phủ Giày",
@@ -1319,7 +1319,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "148", 
 	"Tên": "truyền thống Trần Hưng Đạo",
@@ -1328,7 +1328,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "149", 
 	"Tên": "chùa Keo (Xuân Thủy)",
@@ -1337,7 +1337,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "150", 
 	"Tên": "chùa Cổ",
@@ -1346,7 +1346,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "151", 
 	"Tên": "(huyện Trực Ninh)",
@@ -1355,7 +1355,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nam-định" }
+	"Địa điểm code": "nam-đinh" }
 ,
 { 	"Id": "152", 
 	"Tên": "làng Vạn Lộc (Cửa Lò)",
@@ -1364,7 +1364,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "153", 
 	"Tên": "đền Cuông (Diễn Châu)",
@@ -1373,7 +1373,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "154", 
 	"Tên": "tiếng hát làng Sen",
@@ -1382,7 +1382,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "155", 
 	"Tên": "đền Khai Long",
@@ -1391,7 +1391,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "156", 
 	"Tên": "đền vua Mai (Nam Đàn)",
@@ -1400,7 +1400,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "157", 
 	"Tên": "đền Cờn",
@@ -1409,7 +1409,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "158", 
 	"Tên": "đền ông Hoàng Mười",
@@ -1418,7 +1418,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "nghệ-an" }
+	"Địa điểm code": "nghe-an" }
 ,
 { 	"Id": "159", 
 	"Tên": "Hoa Lư",
@@ -1427,7 +1427,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "ninh-bình" }
+	"Địa điểm code": "ninh-binh" }
 ,
 { 	"Id": "160", 
 	"Tên": "Tràng An",
@@ -1436,7 +1436,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "ninh-bình" }
+	"Địa điểm code": "ninh-binh" }
 ,
 { 	"Id": "161", 
 	"Tên": "đền Nguyễn Công Trứ",
@@ -1445,7 +1445,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "ninh-bình" }
+	"Địa điểm code": "ninh-binh" }
 ,
 { 	"Id": "162", 
 	"Tên": "đền Thái Vi (Ninh Hải, Hoa Lư)",
@@ -1454,7 +1454,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "ninh-bình" }
+	"Địa điểm code": "ninh-binh" }
 ,
 { 	"Id": "163", 
 	"Tên": "Katé",
@@ -1463,7 +1463,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "ninh-thuận" }
+	"Địa điểm code": "ninh-thuan" }
 ,
 { 	"Id": "164", 
 	"Tên": "đền Hùng",
@@ -1472,7 +1472,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-thọ" }
+	"Địa điểm code": "phu-tho" }
 ,
 { 	"Id": "165", 
 	"Tên": "đền Trù Mật",
@@ -1481,7 +1481,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-thọ" }
+	"Địa điểm code": "phu-tho" }
 ,
 { 	"Id": "166", 
 	"Tên": "phết Hiền Quan (Tam Nông)",
@@ -1490,7 +1490,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-thọ" }
+	"Địa điểm code": "phu-tho" }
 ,
 { 	"Id": "167", 
 	"Tên": "hát Xoan",
@@ -1499,7 +1499,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-thọ" }
+	"Địa điểm code": "phu-tho" }
 ,
 { 	"Id": "168", 
 	"Tên": "đua truyền thống đầm Ô Loan (thôn Phú Tân, xã An Cư, huyện Tuy An)",
@@ -1508,7 +1508,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-yên" }
+	"Địa điểm code": "phu-yen" }
 ,
 { 	"Id": "169", 
 	"Tên": "Đâm trâu (huyện Sông Hinh, Sơn Hòa, Đồng Xuân)",
@@ -1517,7 +1517,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-yên" }
+	"Địa điểm code": "phu-yen" }
 ,
 { 	"Id": "170", 
 	"Tên": "hoa Xuân truyền thống",
@@ -1526,7 +1526,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "phú-yên" }
+	"Địa điểm code": "phu-yen" }
 ,
 { 	"Id": "171", 
 	"Tên": "đua thuyền truyền thống (Lệ Thủy)",
@@ -1535,7 +1535,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-bình" }
+	"Địa điểm code": "quang-binh" }
 ,
 { 	"Id": "172", 
 	"Tên": "văn hóa thể thao miền núi",
@@ -1544,7 +1544,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-nam" }
+	"Địa điểm code": "quang-nam" }
 ,
 { 	"Id": "173", 
 	"Tên": "cầu Ngư",
@@ -1553,7 +1553,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-nam" }
+	"Địa điểm code": "quang-nam" }
 ,
 { 	"Id": "174", 
 	"Tên": "bà Thu Bồn",
@@ -1562,7 +1562,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-nam" }
+	"Địa điểm code": "quang-nam" }
 ,
 { 	"Id": "175", 
 	"Tên": "An",
@@ -1571,7 +1571,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-nam" }
+	"Địa điểm code": "quang-nam" }
 ,
 { 	"Id": "176", 
 	"Tên": "đua thuyền Tứ Linh (Lý Sơn)",
@@ -1580,7 +1580,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ngãi" }
+	"Địa điểm code": "quang-ngai" }
 ,
 { 	"Id": "177", 
 	"Tên": "đua thuyền Tịnh Long (Sơn Tịnh)",
@@ -1589,7 +1589,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ngãi" }
+	"Địa điểm code": "quang-ngai" }
 ,
 { 	"Id": "178", 
 	"Tên": "chùa Thiên Ấn (Sơn Tịnh)",
@@ -1598,7 +1598,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ngãi" }
+	"Địa điểm code": "quang-ngai" }
 ,
 { 	"Id": "179", 
 	"Tên": "Yên Tử",
@@ -1607,7 +1607,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "180", 
 	"Tên": "chùa Quỳnh Lâm (Đông Triều)",
@@ -1616,7 +1616,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "181", 
 	"Tên": "đình Quan Lạn",
@@ -1625,7 +1625,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "182", 
 	"Tên": "đền Cửa Ông từ",
@@ -1634,7 +1634,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "183", 
 	"Tên": "đình Trà Cổ (Hải Ninh)",
@@ -1643,7 +1643,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "184", 
 	"Tên": "chùa Ba Vàng",
@@ -1652,7 +1652,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-ninh" }
+	"Địa điểm code": "quang-ninh" }
 ,
 { 	"Id": "185", 
 	"Tên": "đâm trâu người Vân Kiều - Hướng Hóa cuối",
@@ -1661,7 +1661,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "quảng-trị" }
+	"Địa điểm code": "quang-tri" }
 ,
 { 	"Id": "186", 
 	"Tên": "Okombok của người Khmer",
@@ -1670,7 +1670,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "sóc-trăng" }
+	"Địa điểm code": "soc-trang" }
 ,
 { 	"Id": "187", 
 	"Tên": "Xíp xi của người Thái, Kháng",
@@ -1679,7 +1679,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "sơn-la" }
+	"Địa điểm code": "son-la" }
 ,
 { 	"Id": "188", 
 	"Tên": "mừng cơm mới của người Thái",
@@ -1688,7 +1688,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "sơn-la" }
+	"Địa điểm code": "son-la" }
 ,
 { 	"Id": "189", 
 	"Tên": "Mừng Xuân núi Bà Đen (01 đến",
@@ -1697,7 +1697,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tây-ninh" }
+	"Địa điểm code": "tay-ninh" }
 ,
 { 	"Id": "190", 
 	"Tên": "Yến Diêu Trì Cung (15/08 Âm lịch)",
@@ -1706,7 +1706,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tây-ninh" }
+	"Địa điểm code": "tay-ninh" }
 ,
 { 	"Id": "191", 
 	"Tên": "Lam Kinh",
@@ -1715,7 +1715,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "192", 
 	"Tên": "đền thờ Lê Hoàn",
@@ -1724,7 +1724,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "193", 
 	"Tên": "đền Am Tiên núi Nưa",
@@ -1733,7 +1733,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "194", 
 	"Tên": "đền Quang Trung",
@@ -1742,7 +1742,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "195", 
 	"Tên": "Sòng Sơn – Ba Dội",
@@ -1751,7 +1751,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "196", 
 	"Tên": "đền Bà Triệu",
@@ -1760,7 +1760,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thanh-hóa" }
+	"Địa điểm code": "thanh-hoa" }
 ,
 { 	"Id": "197", 
 	"Tên": "chùa Keo (Vũ Thư)",
@@ -1769,7 +1769,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "198", 
 	"Tên": "đền Tiên La (Hưng Hà)",
@@ -1778,7 +1778,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "199", 
 	"Tên": "đền Đồng Xâm (Kiến Xưong)",
@@ -1787,7 +1787,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "200", 
 	"Tên": "đền Đồng Bằng (Quỳnh Phụ)",
@@ -1796,7 +1796,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "201", 
 	"Tên": "chùa Am (Kiến Xưong)",
@@ -1805,7 +1805,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "202", 
 	"Tên": "Vạn Xuân miếu Hai thôn (Xuân Hòa, Vũ Thư)",
@@ -1814,7 +1814,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-bình" }
+	"Địa điểm code": "thai-binh" }
 ,
 { 	"Id": "203", 
 	"Tên": "đền Đuổm (Động Đạt, Phú Lương)",
@@ -1823,7 +1823,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-nguyên" }
+	"Địa điểm code": "thai-nguyen" }
 ,
 { 	"Id": "204", 
 	"Tên": "chùa Hang (TP Thái Nguyên)",
@@ -1832,7 +1832,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thái-nguyên" }
+	"Địa điểm code": "thai-nguyen" }
 ,
 { 	"Id": "205", 
 	"Tên": "cầu ngư (Thuận An - Phú Vang)",
@@ -1841,7 +1841,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thừa-thiên-huế" }
+	"Địa điểm code": "thua-thien-hue" }
 ,
 { 	"Id": "206", 
 	"Tên": "làng Sình (Phú Vang)",
@@ -1850,7 +1850,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thừa-thiên-huế" }
+	"Địa điểm code": "thua-thien-hue" }
 ,
 { 	"Id": "207", 
 	"Tên": "điện Hòa Chén (Hương Trà)",
@@ -1859,7 +1859,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "thừa-thiên-huế" }
+	"Địa điểm code": "thua-thien-hue" }
 ,
 { 	"Id": "208", 
 	"Tên": "chiến thắng Ấp Bắc",
@@ -1868,7 +1868,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tiền-giang" }
+	"Địa điểm code": "tien-giang" }
 ,
 { 	"Id": "209", 
 	"Tên": "mất Nguyễn Hữu Huân",
@@ -1877,7 +1877,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tiền-giang" }
+	"Địa điểm code": "tien-giang" }
 ,
 { 	"Id": "210", 
 	"Tên": "mất Trương Định",
@@ -1886,7 +1886,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tiền-giang" }
+	"Địa điểm code": "tien-giang" }
 ,
 { 	"Id": "211", 
 	"Tên": "Nam Kỳ khởi nghĩa",
@@ -1895,7 +1895,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tiền-giang" }
+	"Địa điểm code": "tien-giang" }
 ,
 { 	"Id": "212", 
 	"Tên": "chiến thắng Đống Đa",
@@ -1976,7 +1976,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "trà-vinh" }
+	"Địa điểm code": "tra-vinh" }
 ,
 { 	"Id": "221", 
 	"Tên": "của người Khmer giữa",
@@ -1985,7 +1985,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "trà-vinh" }
+	"Địa điểm code": "tra-vinh" }
 ,
 { 	"Id": "222", 
 	"Tên": "của người Khmer cuối",
@@ -1994,7 +1994,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "trà-vinh" }
+	"Địa điểm code": "tra-vinh" }
 ,
 { 	"Id": "223", 
 	"Tên": "Lồng Tồng của dân tộc Tày (Chiêm Hóa)",
@@ -2003,7 +2003,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tuyên-quang" }
+	"Địa điểm code": "tuyen-quang" }
 ,
 { 	"Id": "224", 
 	"Tên": "ném còn Giếng Tanh của người Cao Lan (Yên Sơn)",
@@ -2012,7 +2012,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "tuyên-quang" }
+	"Địa điểm code": "tuyen-quang" }
 ,
 { 	"Id": "225", 
 	"Tên": "đình Long Thanh (hạ điền)",
@@ -2021,7 +2021,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "vĩnh-long" }
+	"Địa điểm code": "vinh-long" }
 ,
 { 	"Id": "226", 
 	"Tên": "Phan Thanh Giản",
@@ -2030,7 +2030,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "vĩnh-long" }
+	"Địa điểm code": "vinh-long" }
 ,
 { 	"Id": "227", 
 	"Tên": "quan đại thần, chiến sĩ trận vong",
@@ -2039,7 +2039,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "vĩnh-long" }
+	"Địa điểm code": "vinh-long" }
 ,
 { 	"Id": "228", 
 	"Tên": "Tây Thiên",
@@ -2048,7 +2048,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "vĩnh-phúc" }
+	"Địa điểm code": "vinh-phuc" }
 ,
 { 	"Id": "229", 
 	"Tên": "đền Gia Loan",
@@ -2057,7 +2057,7 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "vĩnh-phúc" }
+	"Địa điểm code": "vinh-phuc" }
 ,
 { 	"Id": "230", 
 	"Tên": "đền Đông Cuông:",
@@ -2066,5 +2066,5 @@
 	"Nhân Vật Lịch Sử Liên Kết": "Không rõ",
 	"Lần Đầu Tổ Chức": "Không rõ",
 	"Thông Tin Khác": "[không rõ]",
-	"Địa điểm code": "yên-bái" }
+	"Địa điểm code": "yen-bai" }
 ]

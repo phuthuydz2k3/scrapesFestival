@@ -7,13 +7,13 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.text.Normalizer;
 
 public class FestivalsScraper implements IScraper
 {
@@ -217,11 +217,13 @@ public class FestivalsScraper implements IScraper
         return cacLeHoi;
     }
 
-    private String convertToCode(String src)
+    private String convertToCode(String str)
     {
-        src = src.toLowerCase();
+        str = str.toLowerCase();
+        str = Normalizer.normalize(str, Normalizer.Form.NFD);
+        str = str.replaceAll("[\\p{InCombiningDiacriticalMarks}]", "");
 
-        return src.replaceAll(" ", "-");
+        return str.replaceAll(" ", "-");
     }
 
     public void writeModel(String fileName, List<Model> models)
