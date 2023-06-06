@@ -108,7 +108,8 @@ public class FestivalsScraper implements IScraper
                 }
                 List<String> others = new ArrayList<>();
                 others.add("không rõ");
-                Model motLeHoi = new LeHoi(ten, thoiGian, diaDiem, "", "", others);
+                String diaDiemCode = convertToCode(diaDiem);
+                Model motLeHoi = new LeHoi(ten, thoiGian, diaDiem, "", "", others, diaDiemCode);
                 cacLeHoi.add(motLeHoi);
             }
         }
@@ -208,11 +209,19 @@ public class FestivalsScraper implements IScraper
                 }
             }
 
-            Model motLeHoi = new LeHoi(ten, thoiGian, diaDiem, nhanVatLichSuLienKet, lanDauToChuc, others);
+            String diaDiemCode = convertToCode(diaDiem.split(",")[0]);
+            Model motLeHoi = new LeHoi(ten, thoiGian, diaDiem, "", "", others, diaDiemCode);
             cacLeHoi.add(motLeHoi);
         }
 
         return cacLeHoi;
+    }
+
+    private String convertToCode(String src)
+    {
+        src = src.toLowerCase();
+
+        return src.replaceAll(" ", "-");
     }
 
     public void writeModel(String fileName, List<Model> models)
